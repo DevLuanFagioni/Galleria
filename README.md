@@ -15,7 +15,7 @@ https://fagioni-galleria.netlify.app
 
 ## 📄 Licença
 
-Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/DevLuanFagioni/Galleria/blob/main/license) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
